@@ -3,4 +3,4 @@
 
 Repositório criado para aprender a criar um repositório no GitHub. Aula ministrada pelo Prof. Gustavo Guanabara.
 
-Esta linha foi inserida para aprender como realziar alterações no meu repositório diretamente do sit Github.
+Esta linha foi inserida para aprender como realziar alterações no meu repositório diretamente do sit Github para entender a integração entre Github Desktop e Visual Code e outras ferramentas.
